@@ -8,6 +8,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0009-palindrome-number](https://github.com/bishalstha045/Leetcode/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -16,15 +17,18 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -47,10 +51,12 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
