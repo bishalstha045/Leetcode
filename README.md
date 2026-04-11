@@ -25,6 +25,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bishalstha045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -93,4 +94,5 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
