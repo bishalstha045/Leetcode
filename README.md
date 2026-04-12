@@ -8,6 +8,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0007-reverse-integer](https://github.com/bishalstha045/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bishalstha045/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
@@ -21,6 +22,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
