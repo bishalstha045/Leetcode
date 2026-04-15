@@ -12,6 +12,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/bishalstha045/Leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -113,4 +114,8 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/bishalstha045/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
