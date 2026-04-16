@@ -13,6 +13,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/bishalstha045/Leetcode/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -66,6 +67,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 ## Binary Search
 |  |
@@ -118,4 +120,8 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/bishalstha045/Leetcode/tree/master/0319-bulb-switcher) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
