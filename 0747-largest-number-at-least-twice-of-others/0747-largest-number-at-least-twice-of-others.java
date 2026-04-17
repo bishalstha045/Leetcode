@@ -1,22 +1,22 @@
-class Solution {
-    public int dominantIndex(int[] nums) {
-       int n=nums.length;
-       int max=0;
-       int index=0;
-       for(int i=0;i<n;i++){
-        if(nums[i]>max){
-            max=nums[i];
-            index=i;
-        }
-       }
-       for(int i=0;i<n;i++){
-        if(max < 2*(nums[i]) && i!=index){
-            return -1;
-        }
-       }
-       return index;
-    }
-}
+// class Solution {
+//     public int dominantIndex(int[] nums) {
+//        int n=nums.length;
+//        int max=0;
+//        int index=0;
+//        for(int i=0;i<n;i++){
+//         if(nums[i]>max){
+//             max=nums[i];
+//             index=i;
+//         }
+//        }
+//        for(int i=0;i<n;i++){
+//         if(max < 2*(nums[i]) && i!=index){
+//             return -1;
+//         }
+//        }
+//        return index;
+//     }
+// }
 
 // Steps:
 // 1. First loop → find the maximum element and its index.
@@ -29,25 +29,25 @@ class Solution {
 // Time Complexity: O(n)
 // Space Complexity: O(1)
 
-// class Solution {
-//     public int dominantIndex(int[] nums) {
-//        int n=nums.length;
-//        int max=0;
-//        int secondmax=0;
-//        int index=0;
-//        for(int i=0;i<n;i++){
-//         if(nums[i]>max){
-//             secondmax=max;
-//             max=nums[i];
-//             index=i;
-//         }
-//         else if(nums[i]>secondmax){
-//             secondmax=nums[i];
-//         }
-//        }
-//        return (max >= 2* secondmax)? index : -1 ;
-//     }
-// }
+class Solution {
+    public int dominantIndex(int[] nums) {
+       int n=nums.length;
+       int max=0;
+       int secondmax=0;
+       int index=0;
+       for(int i=0;i<n;i++){
+        if(nums[i]>max){
+            secondmax=max;
+            max=nums[i];
+            index=i;
+        }
+        else if(nums[i]>secondmax){
+            secondmax=nums[i];
+        }
+       }
+       return (max >= 2* secondmax)? index : -1 ;
+    }
+}
 
 // Steps:
 // 1. Traverse array once.
