@@ -24,6 +24,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
