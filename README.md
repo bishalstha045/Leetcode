@@ -34,6 +34,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/bishalstha045/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
