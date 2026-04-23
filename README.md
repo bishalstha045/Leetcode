@@ -35,6 +35,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/bishalstha045/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
@@ -148,4 +149,8 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
