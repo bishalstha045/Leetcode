@@ -30,6 +30,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -62,6 +63,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
