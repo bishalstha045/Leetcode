@@ -57,6 +57,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bishalstha045/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishalstha045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Brainteaser
 |  |
