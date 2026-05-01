@@ -1,12 +1,22 @@
 class Solution {
     public int arrangeCoins(int n) {
-        int row=1;
-        while(row<=n){
-        n=n-row;
-        row++;
+        long low = 0;
+        long high = n;
+        long ans = 0;
+
+        while(low <= high){
+            long mid = low + (high - low)/2;
+            long m = mid * (mid + 1) / 2;
+
+            if(m == n) return (int)mid;
+            else if(m > n){
+                high = mid - 1;
+            }
+            else{
+                ans = mid;
+                low = mid + 1;
+            }
         }
-        return row-1;
+        return (int)ans; //we are using long since mid *(mid + 1) may overflow in int.
     }
 }
-
-// i will do it again using binary search, binary search results in giving O(1).
