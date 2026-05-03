@@ -20,6 +20,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1017-convert-to-base-2](https://github.com/bishalstha045/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bishalstha045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
