@@ -181,6 +181,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
 ## Greedy
 |  |
 | ------- |
