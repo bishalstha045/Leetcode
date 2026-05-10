@@ -45,6 +45,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -74,6 +75,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -200,5 +202,6 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
