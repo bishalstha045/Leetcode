@@ -8,6 +8,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0007-reverse-integer](https://github.com/bishalstha045/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bishalstha045/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bishalstha045/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bishalstha045/Leetcode/tree/master/0069-sqrtx) |
@@ -74,6 +75,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
@@ -191,6 +193,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
