@@ -11,6 +11,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bishalstha045/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/bishalstha045/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
@@ -86,6 +87,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
@@ -112,6 +114,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 ## Binary Search
@@ -194,6 +197,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
