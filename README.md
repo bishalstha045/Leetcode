@@ -196,6 +196,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/bishalstha045/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
