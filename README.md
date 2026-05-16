@@ -215,5 +215,6 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/bishalstha045/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bishalstha045/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
