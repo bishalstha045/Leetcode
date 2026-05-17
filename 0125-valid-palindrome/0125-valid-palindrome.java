@@ -1,0 +1,36 @@
+class Solution {
+    public boolean isPalindrome(String s) {
+
+        StringBuilder str = new StringBuilder();
+
+        for(int i = 0; i < s.length(); i++) {
+
+            char ch = s.charAt(i);
+
+            // convert uppercase to lowercase
+            if(ch >= 'A' && ch <= 'Z') {
+                ch = (char)(ch + 32);
+            }
+
+            // keep only letters and digits
+            if((ch >= 'a' && ch <= 'z') || (ch >= '0' && ch <= '9')) {
+                str.append(ch);
+            }
+        }
+
+        int i = 0;
+        int j = str.length() - 1;
+
+        while(i < j) {
+
+            if(str.charAt(i) != str.charAt(j)) {
+                return false;
+            }
+
+            i++;
+            j--;
+        }
+
+        return true;
+    }
+}
