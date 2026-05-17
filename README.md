@@ -175,6 +175,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
@@ -199,6 +200,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0006-zigzag-conversion](https://github.com/bishalstha045/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
