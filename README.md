@@ -50,6 +50,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
@@ -103,6 +104,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -219,4 +221,8 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0175-combine-two-tables](https://github.com/bishalstha045/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/bishalstha045/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
