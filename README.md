@@ -9,6 +9,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0007-reverse-integer](https://github.com/bishalstha045/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bishalstha045/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bishalstha045/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
@@ -39,6 +40,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0033-search-in-rotated-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bishalstha045/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -225,4 +227,8 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
