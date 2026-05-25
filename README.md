@@ -96,6 +96,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/bishalstha045/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/bishalstha045/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
@@ -169,6 +170,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/bishalstha045/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
