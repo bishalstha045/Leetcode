@@ -22,6 +22,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bishalstha045/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/bishalstha045/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
@@ -140,6 +141,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bishalstha045/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/bishalstha045/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
