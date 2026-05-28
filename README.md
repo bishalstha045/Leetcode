@@ -22,6 +22,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/bishalstha045/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/bishalstha045/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
@@ -89,6 +90,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -247,4 +249,12 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/bishalstha045/Leetcode/tree/master/0078-subsets) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
