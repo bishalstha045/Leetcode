@@ -17,3 +17,8 @@ public:
         return sum == num;
     }
 };
+// A perfect number is equal to the sum of its positive divisors excluding itself.
+// Start with 1 since it is a divisor of every number greater than 1.
+// Check divisors only up to sqrt(num) and add both divisor pairs.
+// Avoid double-counting when the divisor is the square root.
+// Return true if the sum of proper divisors equals the number.
