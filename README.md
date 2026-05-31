@@ -91,6 +91,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -207,6 +208,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -222,6 +224,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0125-valid-palindrome) |
+| [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
