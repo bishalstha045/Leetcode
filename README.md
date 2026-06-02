@@ -118,6 +118,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
@@ -222,6 +223,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0006-zigzag-conversion](https://github.com/bishalstha045/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bishalstha045/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -255,6 +257,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bishalstha045/Leetcode/tree/master/0078-subsets) |
 ## Reservoir Sampling
 |  |
