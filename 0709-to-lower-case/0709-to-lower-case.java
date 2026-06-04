@@ -1,25 +1,20 @@
 class Solution {
     public String toLowerCase(String s) {
-        char arr[] = s.toCharArray();
-        for(int i=0;i<arr.length;i++){
-            if(arr[i] >='A' && arr[i] <='Z'){
-                arr[i] = (char)(arr[i] + 32);
+        StringBuilder sc = new StringBuilder();
+        for(int i=0;i<s.length();i++){
+            char ch = s.charAt(i);
+            if(ch>='A' && ch <='Z'){
+                ch= (char)(ch + 32);
             }
+            sc.append(ch);
         }
-        return new String(arr);
+        return sc.toString();
     }
 }
 
-// Approach:
-// Convert the string into a character array to allow in-place modification.
-// Traverse each character:
-// - If it lies between 'A' and 'Z', convert it to lowercase by adding 32
-//   (since ASCII difference between uppercase and lowercase is 32).
-// - Otherwise, leave it unchanged.
-// Finally, convert the modified character array back to a string.
-
-// Time Complexity: O(n)
-// We traverse the string once.
-
-// Space Complexity: O(n)
-// Character array is used to store modified result.
+// approach
+// firstly we created a string builder object to store our lowercase letters
+// we traverse in the string array then we know uppercase and lowercase letter are differ by 32 ascii value 
+// for A =65 and a= 97
+// then we compare if letter are in between A and Z if so then we converted it into lowercase letters using ascii value
+// and while returning we have to put toString since stringbuilder is an object
