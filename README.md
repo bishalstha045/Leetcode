@@ -69,6 +69,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishalstha045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -136,6 +137,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
@@ -259,6 +261,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
+| [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
