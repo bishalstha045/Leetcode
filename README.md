@@ -253,6 +253,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
 ## Greedy
 |  |
 | ------- |
