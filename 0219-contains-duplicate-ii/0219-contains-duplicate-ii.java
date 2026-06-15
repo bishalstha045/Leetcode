@@ -1,29 +1,14 @@
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (map.containsKey(nums[i])) {
-                if (i - map.get(nums[i]) <= k) {
-                    return true;
-                }
+        for(int i=0;i<nums.length;i++){
+            for(int j=i+1; j<nums.length && j<=(i+k); j++){
+                if(nums[i]==nums[j]) return true;
             }
-            map.put(nums[i], i);
         }
-
         return false;
     }
 }
-
 /*
-Approach:
-1. Use HashMap to store number and its latest index.
-2. Traverse array.
-3. If current number already exists in map,
-   check difference between current index and previous index.
-4. If difference <= k, return true.
-5. Otherwise update latest index.
-6. If no duplicates found within range k, return false.
-
-Time Complexity: O(n)
-Space Complexity: O(n)
+simple brute force technique to compare the current element and next element then for the second loop case we need to maintain the condition where it says abs(i-j)<=k then we simple compare and return 
+its time complexity is bigger than O(n) , after learning hashmap i will use hashmap or hashsheet with sliding window concept to perform optimal solution
 */
