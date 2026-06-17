@@ -1,5 +1,5 @@
 # Leetcode_Java
-vA collection of LeetCode problems solved using Java, covering data structures, algorithms, and coding interview preparation.
+A collection of LeetCode problems solved using Java, covering data structures, algorithms, and coding interview preparation.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
