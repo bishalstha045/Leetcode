@@ -80,6 +80,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/bishalstha045/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/bishalstha045/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishalstha045/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/bishalstha045/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -282,6 +283,7 @@ vA collection of LeetCode problems solved using Java, covering data structures, 
 | ------- |
 | [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/bishalstha045/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
