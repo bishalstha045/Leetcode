@@ -1,46 +1,35 @@
 class Solution {
     public int romanToInt(String s) {
-
-        int total = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-
-            int current = value(s.charAt(i));
-
-            // Check next character
-            if (i < s.length() - 1 && current < value(s.charAt(i + 1))) {
-                total -= current;
-            } else {
-                total += current;
+        int total=0;
+        for(int i=0;i<s.length()-1;i++){
+            char cur = s.charAt(i);
+            char next= s.charAt(i+1);
+            if(value(cur)<value(next)){
+                total -= value(cur);
+            }
+            else{
+                 total += value(cur);
             }
         }
-
+         total += value(s.charAt(s.length() - 1)); //since the last element of roman numeral is never subtracted thats why i have simply added this
         return total;
+
     }
-
-    // Function to return Roman value
-    public int value(char ch) {
-
-        if (ch == 'I') return 1;
-        if (ch == 'V') return 5;
-        if (ch == 'X') return 10;
-        if (ch == 'L') return 50;
-        if (ch == 'C') return 100;
-        if (ch == 'D') return 500;
-        if (ch == 'M') return 1000;
-
-        return 0;
+    //converting symbol into values
+    public int value(char ch){
+        if(ch=='I') return 1;
+        else if(ch=='V') return 5;
+        else if(ch=='X') return 10;
+        else if(ch=='L') return 50;
+        else if(ch=='C') return 100;
+        else if(ch=='D') return 500;
+        else  return 1000;
     }
 }
 
 /*
-Explanation:
-- Convert each Roman character to integer.
-- If current value is smaller than next value, subtract it.
-  Example: IV = 5 - 1 = 4
-- Otherwise add it.
-- Finally return total sum.
-
-Time Complexity: O(n)
-Space Complexity: O(1)
-*/
+so basically i created a return type function value which will convert the roman values into the number values ,
+then i simply travese through each character of the string and i checked current element with next element so for that to avoid array out of bound i have gone for second last element in loop condition 
+i subtracted element if current element is smaller than the previous element but if not then i simply added 
+this goes till the last element but for last element i simply added it outside of the loop 
+ */
