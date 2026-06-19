@@ -49,6 +49,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0078-subsets](https://github.com/bishalstha045/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/bishalstha045/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bishalstha045/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/bishalstha045/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/bishalstha045/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
