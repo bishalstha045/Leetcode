@@ -10,8 +10,3 @@ class Solution {
         return false;
     }
 }
-
-/*
-so it is a sipmle 2d binary search question
-using binary search algo
- */
