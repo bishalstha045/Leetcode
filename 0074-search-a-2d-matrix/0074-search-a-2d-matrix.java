@@ -1,3 +1,4 @@
+// using binary search 
 class Solution {
     public static boolean searchMatrix(int[][] matrix, int target) {
         int rows = matrix.length;
@@ -22,3 +23,21 @@ class Solution {
     }
 
 }
+
+/*
+//can be solved using top right search same as 240 for row col sorted matrix
+int row = 0;
+int col = matrix[0].length - 1;
+
+while(row < matrix.length && col >= 0){
+
+    if(matrix[row][col] == target)
+        return true;
+
+    else if(matrix[row][col] > target)
+        col--;
+
+    else
+        row++;
+}
+ */
