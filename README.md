@@ -45,6 +45,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0035-search-insert-position](https://github.com/bishalstha045/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
@@ -299,6 +301,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | ------- |
 | [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
