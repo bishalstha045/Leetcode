@@ -76,6 +76,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishalstha045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -156,6 +157,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0067-add-binary](https://github.com/bishalstha045/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
@@ -305,6 +307,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0074-search-a-2d-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
+| [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bishalstha045/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bishalstha045/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/bishalstha045/Leetcode/tree/master/1672-richest-customer-wealth) |
