@@ -64,6 +64,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/bishalstha045/Leetcode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/bishalstha045/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -365,4 +367,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
