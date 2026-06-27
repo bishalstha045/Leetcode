@@ -100,6 +100,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishalstha045/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/bishalstha045/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/bishalstha045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishalstha045/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/bishalstha045/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bishalstha045/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/bishalstha045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/bishalstha045/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
