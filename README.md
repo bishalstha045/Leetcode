@@ -272,6 +272,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Counting Sort
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0520-detect-capital](https://github.com/bishalstha045/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
+| [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
 ## Greedy
