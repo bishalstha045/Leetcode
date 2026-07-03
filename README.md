@@ -98,6 +98,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/bishalstha045/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/bishalstha045/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bishalstha045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -348,6 +349,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/bishalstha045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/bishalstha045/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1052-grumpy-bookstore-owner](https://github.com/bishalstha045/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bishalstha045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Database
