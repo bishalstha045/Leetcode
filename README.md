@@ -110,6 +110,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bishalstha045/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/bishalstha045/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bishalstha045/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/bishalstha045/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/bishalstha045/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bishalstha045/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -179,6 +180,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bishalstha045/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1052-grumpy-bookstore-owner](https://github.com/bishalstha045/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bishalstha045/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bishalstha045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bishalstha045/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 ## Database
 |  |
