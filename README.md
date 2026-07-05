@@ -62,6 +62,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishalstha045/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/bishalstha045/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bishalstha045/Leetcode/tree/master/0242-valid-anagram) |
@@ -232,6 +234,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0015-3sum](https://github.com/bishalstha045/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bishalstha045/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bishalstha045/Leetcode/tree/master/0242-valid-anagram) |
@@ -253,6 +256,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bishalstha045/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -302,6 +306,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
