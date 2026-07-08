@@ -147,6 +147,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/bishalstha045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -323,6 +324,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bishalstha045/Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0383-ransom-note](https://github.com/bishalstha045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0242-valid-anagram](https://github.com/bishalstha045/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/bishalstha045/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/bishalstha045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
