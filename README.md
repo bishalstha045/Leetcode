@@ -129,6 +129,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1929-concatenation-of-array](https://github.com/bishalstha045/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/bishalstha045/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bishalstha045/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bishalstha045/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
