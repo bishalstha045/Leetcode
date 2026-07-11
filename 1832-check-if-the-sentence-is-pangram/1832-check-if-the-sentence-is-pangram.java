@@ -1,12 +1,34 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashSet<Character>set= new HashSet<>();
-        for(char ch:sentence.toCharArray()){
-            set.add(ch);
+        int[]freq= new int[26];
+        for(char el:sentence.toCharArray()){
+            freq[el-'a']++;
         }
-        return set.size()==26;
+        for(int i=0;i<26;i++){
+            if(freq[i]<1)return false;
+        }
+        return true;
     }
 }
+/*
+Approach:
+- Count the frequency of each lowercase letter using a size-26 array.
+- Traverse the frequency array and check if every letter appears at least once.
+- If any frequency is 0, the sentence is not a pangram.
+Time Complexity: O(n)
+Space Complexity: O(1)
+*/
+
+
+// class Solution {
+//     public boolean checkIfPangram(String sentence) {
+//         HashSet<Character>set= new HashSet<>();
+//         for(char ch:sentence.toCharArray()){
+//             set.add(ch);
+//         }
+//         return set.size()==26;
+//     }
+// }
 /*
 Approach:
 - Use a HashSet to store all unique characters from the sentence.
