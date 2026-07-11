@@ -167,6 +167,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bishalstha045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -385,6 +386,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bishalstha045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bishalstha045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2315-count-asterisks](https://github.com/bishalstha045/Leetcode/tree/master/2315-count-asterisks) |
 | [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
