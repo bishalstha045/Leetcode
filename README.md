@@ -106,6 +106,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/bishalstha045/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/bishalstha045/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
+| [1207-unique-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bishalstha045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0560-subarray-sum-equals-k](https://github.com/bishalstha045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/bishalstha045/Leetcode/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/bishalstha045/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
