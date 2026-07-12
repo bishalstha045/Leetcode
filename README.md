@@ -64,6 +64,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0119-pascals-triangle-ii](https://github.com/bishalstha045/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishalstha045/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishalstha045/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/bishalstha045/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bishalstha045/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/bishalstha045/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -147,6 +148,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/bishalstha045/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bishalstha045/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/bishalstha045/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/bishalstha045/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
@@ -487,4 +489,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/bishalstha045/Leetcode/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/bishalstha045/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
