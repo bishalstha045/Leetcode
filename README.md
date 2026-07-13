@@ -108,6 +108,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0904-fruit-into-baskets](https://github.com/bishalstha045/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/bishalstha045/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bishalstha045/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/bishalstha045/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0771-jewels-and-stones](https://github.com/bishalstha045/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/bishalstha045/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bishalstha045/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bishalstha045/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -319,6 +321,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0525-contiguous-array](https://github.com/bishalstha045/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bishalstha045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/bishalstha045/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/bishalstha045/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/bishalstha045/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/bishalstha045/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bishalstha045/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
