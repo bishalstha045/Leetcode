@@ -228,6 +228,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishalstha045/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishalstha045/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
@@ -356,6 +357,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/bishalstha045/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/bishalstha045/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
@@ -407,6 +409,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0383-ransom-note](https://github.com/bishalstha045/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
