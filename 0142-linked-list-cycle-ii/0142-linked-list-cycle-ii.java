@@ -39,3 +39,28 @@ If no cycle is found, I return null.
 Time Complexity: O(n)
 Space Complexity: O(1)
 */
+
+
+// public class Solution {
+//     public ListNode detectCycle(ListNode head) {
+//         HashSet<ListNode> visited = new HashSet<>();
+//         ListNode current = head;
+//         while (current != null) {
+//             if (visited.contains(current)) {
+//                 return current;   // Start of the cycle
+//             }
+//             visited.add(current);
+//             current = current.next;
+//         }
+//         return null;   // No cycle
+//     }
+// }
+/*
+Approach:
+I used a HashSet to keep track of all visited nodes. While traversing the
+linked list, I check whether the current node has already been visited.
+If it has, that node is the starting point of the cycle, so I return it.
+If I reach null, it means there is no cycle, so I return null.
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
