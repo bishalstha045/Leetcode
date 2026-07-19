@@ -221,6 +221,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/bishalstha045/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bishalstha045/Leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -547,6 +548,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/bishalstha045/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/bishalstha045/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bishalstha045/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
