@@ -6,6 +6,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/bishalstha045/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bishalstha045/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
@@ -221,6 +222,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bishalstha045/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bishalstha045/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/bishalstha045/Leetcode/tree/master/0050-powx-n) |
@@ -550,6 +552,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bishalstha045/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bishalstha045/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bishalstha045/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
