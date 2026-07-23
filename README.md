@@ -49,6 +49,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0001-two-sum](https://github.com/bishalstha045/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/bishalstha045/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/bishalstha045/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bishalstha045/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bishalstha045/Leetcode/tree/master/0027-remove-element) |
@@ -425,6 +426,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0006-zigzag-conversion](https://github.com/bishalstha045/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/bishalstha045/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/bishalstha045/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bishalstha045/Leetcode/tree/master/0049-group-anagrams) |
@@ -578,4 +580,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0328-odd-even-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bishalstha045/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
