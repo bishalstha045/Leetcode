@@ -580,6 +580,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0328-odd-even-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1669-merge-in-between-linked-lists](https://github.com/bishalstha045/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 ## Trie
 |  |
 | ------- |
