@@ -275,6 +275,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/bishalstha045/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bishalstha045/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bishalstha045/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
@@ -581,6 +582,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0876-middle-of-the-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/bishalstha045/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/bishalstha045/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Trie
 |  |
 | ------- |
