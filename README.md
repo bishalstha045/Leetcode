@@ -58,6 +58,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0035-search-insert-position](https://github.com/bishalstha045/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/bishalstha045/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bishalstha045/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/bishalstha045/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/bishalstha045/Leetcode/tree/master/0066-plus-one) |
@@ -244,6 +245,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bishalstha045/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/bishalstha045/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bishalstha045/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -336,6 +338,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bishalstha045/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bishalstha045/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
