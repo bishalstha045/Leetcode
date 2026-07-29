@@ -1,25 +1,19 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        int low =1;
-        int high = arr.length -2;
-        while(low<= high){
-            int mid = low + (high - low)/2 ;
-            if(arr[mid]> arr[mid +1] && arr[mid]> arr[mid -1 ]){
-                return mid ;
-            }
-            else if (arr[mid]> arr[mid -1] && arr[mid]< arr[mid + 1]){
-                low = mid +1;
-            }
-            else{
-                high = mid -1;
-            }
+        int low=0;
+        int high=arr.length-1;
+        while(low<high){
+            int mid=low+(high-low)/2;
+            if(arr[mid]<arr[mid+1])low=mid+1;
+            else high=mid;
         }
-        return -1;
+        return low;
     }
 }
-
-// Binary search approach
-// If mid < mid+1 → we are on increasing slope → move right
-// Else → we are on decreasing slope → move left (including mid)
-// Eventually low == high → peak index
-// Time: O(log n), Space: O(1)
+// Binary Search is used to find a peak element.
+// If nums[mid] < nums[mid + 1], the peak is on the right, otherwise it is on the left (or at mid).
+// The loop runs while (l < h) because when l == h, only one element is left, which is the peak.
+// Using l <= h is unnecessary and may cause nums[mid + 1] to go out of bounds.
+//
+// Time Complexity: O(log n)
+// Space Complexity: O(1)$0
