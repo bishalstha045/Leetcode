@@ -160,6 +160,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Counting Sort
 |  |
 | ------- |
