@@ -32,6 +32,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0507-perfect-number](https://github.com/bishalstha045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1017-convert-to-base-2](https://github.com/bishalstha045/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/bishalstha045/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [0904-fruit-into-baskets](https://github.com/bishalstha045/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -264,6 +266,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bishalstha045/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -623,4 +626,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
