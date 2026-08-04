@@ -17,3 +17,11 @@ class Solution {
         return ans;
     }
 }
+/*
+//Hashing approach:
+firstly findout small and big element from array
+after that traverse through the array and count out the frequency
+if any element with frequency not equals to 1 add it into arraylist 
+since the question says list element should be in sorted order , so traverse from small to big
+return ans
+ */
