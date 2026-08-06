@@ -16,3 +16,8 @@ class Solution {
     return ans;
 }
 }
+// Brute Force Approach:
+// Check every number starting from n.
+// Find the product of its digits.
+// If the product is divisible by t, return that number.
+// Otherwise, continue checking until the limit.
