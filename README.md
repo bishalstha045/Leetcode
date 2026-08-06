@@ -293,6 +293,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
@@ -428,6 +429,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0443-string-compression](https://github.com/bishalstha045/Leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -491,6 +493,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bishalstha045/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bishalstha045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -577,6 +580,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
+| [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
