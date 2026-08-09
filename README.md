@@ -468,6 +468,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0008-string-to-integer-atoi](https://github.com/bishalstha045/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/bishalstha045/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/bishalstha045/Leetcode/tree/master/0049-group-anagrams) |
@@ -577,6 +578,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
@@ -648,4 +650,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
