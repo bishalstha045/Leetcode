@@ -168,6 +168,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/bishalstha045/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -225,6 +226,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bishalstha045/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -356,6 +358,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1346-check-if-n-and-its-double-exist](https://github.com/bishalstha045/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bishalstha045/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
