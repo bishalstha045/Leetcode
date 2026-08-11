@@ -113,6 +113,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/bishalstha045/Leetcode/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/bishalstha045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bishalstha045/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -294,6 +295,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0289-game-of-life](https://github.com/bishalstha045/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
@@ -587,6 +589,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
+| [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bishalstha045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/bishalstha045/Leetcode/tree/master/1544-make-the-string-great) |
