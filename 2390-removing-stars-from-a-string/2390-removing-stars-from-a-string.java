@@ -16,3 +16,7 @@ class Solution {
         return sb.toString();
     }
 }
+// Use a stack to keep the characters that are not removed
+// If we get '*' then remove the last character from the stack
+// Otherwise, add the current character to the stack
+// Finally, convert the stack into a string and return it
