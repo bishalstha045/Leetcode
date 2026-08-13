@@ -105,6 +105,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/bishalstha045/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bishalstha045/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0438-find-all-anagrams-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/bishalstha045/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bishalstha045/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -594,6 +596,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bishalstha045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -603,6 +606,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
