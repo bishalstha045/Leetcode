@@ -13,3 +13,8 @@ class Solution {
         return ans;
     }
 }
+// Traverse from right to left and use a monotonic stack to find the first
+// smaller or equal price on the right. Remove all prices greater than the
+// current price because they cannot be used as a discount. If the stack is
+// empty, there is no discount; otherwise, subtract the price at the top.
+// Time: O(n), Space: O(n)
