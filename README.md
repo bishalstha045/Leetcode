@@ -127,6 +127,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0875-koko-eating-bananas](https://github.com/bishalstha045/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 | [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
+| [0896-monotonic-array](https://github.com/bishalstha045/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/bishalstha045/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
