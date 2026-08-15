@@ -117,6 +117,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/bishalstha045/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/bishalstha045/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
@@ -602,6 +603,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/bishalstha045/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bishalstha045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bishalstha045/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -612,6 +614,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | ------- |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/bishalstha045/Leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bishalstha045/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
