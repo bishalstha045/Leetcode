@@ -1,23 +1,29 @@
 class StockSpanner {
-    Stack<int[]> st;
+    Stack<Integer> st;
+    ArrayList<Integer> prices;
     public StockSpanner() {
         st = new Stack<>();
+        prices = new ArrayList<>();
     }
     public int next(int price) {
-        int span = 1;
-        while (!st.isEmpty() && st.peek()[0] <= price) {
-            span += st.pop()[1];
+        prices.add(price);
+        int i = prices.size() - 1;
+        while (!st.isEmpty() && prices.get(st.peek()) <= price) {
+            st.pop();
         }
-        st.push(new int[]{price, span});
+        int span;
+        if (st.isEmpty()) {
+            span = i + 1;
+        } else {
+            span = i - st.peek();
+        }
+        st.push(i);
         return span;
     }
 }
-// I used a monotonic decreasing stack to solve this problem. For every new price
-// I remove all the previous prices that are smaller than or equal to the current price because they cannot be the previous greater element anymore. 
-// Instead of storing only the price, I store the price along with its span
-//  so when I pop an element I can directly add its already calculated span. 
-//  This avoids checking every previous day again and gives an O(n) 
-//  amortized time complexity.
+/**
+I used a monotonic decreasing stack to store the indices of previous greater prices. I keep the prices in an ArrayList and remove all previous prices smaller than or equal to the current price. If the stack is empty, the span is `i + 1`; otherwise, it is `i - st.peek()`. This gives an O(n) amortized solution.
+*/
 
 /**
  * Your StockSpanner object will be instantiated and called as such:
