@@ -606,6 +606,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/bishalstha045/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/bishalstha045/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bishalstha045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bishalstha045/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/bishalstha045/Leetcode/tree/master/1544-make-the-string-great) |
@@ -616,6 +617,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bishalstha045/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bishalstha045/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Queue
 |  |
@@ -630,6 +632,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -684,4 +687,8 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
