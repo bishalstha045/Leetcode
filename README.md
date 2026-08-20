@@ -176,6 +176,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bishalstha045/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bishalstha045/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
@@ -316,6 +317,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2181-merge-nodes-in-between-zeros](https://github.com/bishalstha045/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
 | ------- |
