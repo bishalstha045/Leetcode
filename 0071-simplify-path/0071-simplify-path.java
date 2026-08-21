@@ -1,24 +1,22 @@
 class Solution {
     public String simplifyPath(String path) {
-        Stack<String> stack = new Stack<>();
-        String[] parts = path.split("/");
-        for (String part : parts) {
-            if (part.equals("") || part.equals(".")) {
-                continue;
+        String []arr=path.split("/");
+        Stack<String> st=new Stack<>();
+        for(String s:arr){
+            if(s.equals("") || s.equals("."))continue;
+            if(s.equals("..")){
+                if(!st.isEmpty())st.pop();
             }
-            if (part.equals("..")) {
-                if (!stack.isEmpty()) {
-                    stack.pop();
-                }
-            } 
-            else {
-                stack.push(part);
-            }
+            else st.push(s);
         }
-        StringBuilder result = new StringBuilder();
-        for (String dir : stack) {
-            result.append("/").append(dir);
+        StringBuilder sb=new StringBuilder();
+        for(String s:st){
+            sb.append("/").append(s);
         }
-        return result.length() == 0 ? "/" : result.toString();
+        return sb.length()==0?"/":sb.toString();
     }
 }
+/*
+I used a stack to simplify the path. First, I split the path using / and processed each part one by one. Empty strings and . are ignored because they don't change the current location. When I get .., I pop the last directory from the stack because it means going one directory back. Otherwise, I push the directory into the stack. Finally, I use a StringBuilder to construct the simplified path by adding / before every directory. If the stack is empty, I return /.
+
+ */
