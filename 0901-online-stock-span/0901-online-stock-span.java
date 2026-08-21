@@ -7,8 +7,8 @@ class StockSpanner {
     }
     public int next(int price) {
         prices.add(price);
-        int i = prices.size() - 1;
-        while (!st.isEmpty() && prices.get(st.peek()) <= price) {
+        int i = prices.size()-1;
+        while (!st.isEmpty()&& prices.get(st.peek()) <= price) {
             st.pop();
         }
         int span;
@@ -24,7 +24,6 @@ class StockSpanner {
 /**
 I used a monotonic decreasing stack to store the indices of previous greater prices. I keep the prices in an ArrayList and remove all previous prices smaller than or equal to the current price. If the stack is empty, the span is `i + 1`; otherwise, it is `i - st.peek()`. This gives an O(n) amortized solution.
 */
-
 /**
  * Your StockSpanner object will be instantiated and called as such:
  * StockSpanner obj = new StockSpanner();
