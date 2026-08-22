@@ -607,6 +607,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0020-valid-parentheses](https://github.com/bishalstha045/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/bishalstha045/Leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/bishalstha045/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -638,6 +639,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/bishalstha045/Leetcode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 ## Number Theory
