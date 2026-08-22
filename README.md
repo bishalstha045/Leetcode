@@ -44,6 +44,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2235-add-two-integers](https://github.com/bishalstha045/Leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bishalstha045/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishalstha045/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Array
 |  |
