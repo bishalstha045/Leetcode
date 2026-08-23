@@ -41,6 +41,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bishalstha045/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/bishalstha045/Leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bishalstha045/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -523,6 +524,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1768-merge-strings-alternately](https://github.com/bishalstha045/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/bishalstha045/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bishalstha045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2315-count-asterisks](https://github.com/bishalstha045/Leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -538,6 +540,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0409-longest-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/bishalstha045/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
+| [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/bishalstha045/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 ## Bracket Sequences
 |  |
 | ------- |
