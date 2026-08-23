@@ -276,6 +276,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/bishalstha045/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/bishalstha045/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -510,6 +511,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/bishalstha045/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -618,6 +620,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0155-min-stack](https://github.com/bishalstha045/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/bishalstha045/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/bishalstha045/Leetcode/tree/master/0735-asteroid-collision) |
