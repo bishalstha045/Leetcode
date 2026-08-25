@@ -1,16 +1,18 @@
+
 class RecentCounter {
-    Queue<Integer> q;
+    ArrayDeque<Integer> q;
     public RecentCounter() {
         q = new ArrayDeque<>();
     }
     public int ping(int t) {
-        // ENQUEUE current call
-        q.offer(t);
-        // DEQUEUE calls that are too old
-        while(q.peek() < t - 3000) {
-            q.poll();
+        // ENQUEUE → add current call
+        q.addLast(t);
+        // Remove calls outside the last 3000 ms
+        while (q.peekFirst() < t - 3000) {
+            // DEQUEUE → remove oldest call
+            q.removeFirst();
         }
-        // Count recent calls
+        // Number of recent calls
         return q.size();
     }
 }
