@@ -185,6 +185,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bishalstha045/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bishalstha045/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bishalstha045/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/bishalstha045/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/bishalstha045/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Bit Manipulation
