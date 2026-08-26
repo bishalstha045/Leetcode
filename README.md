@@ -538,6 +538,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2315-count-asterisks](https://github.com/bishalstha045/Leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bishalstha045/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
 ## Greedy
@@ -571,6 +572,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bishalstha045/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bishalstha045/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bishalstha045/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bishalstha045/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
