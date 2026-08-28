@@ -166,6 +166,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1652-defuse-the-bomb](https://github.com/bishalstha045/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/bishalstha045/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishalstha045/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/bishalstha045/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bishalstha045/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/bishalstha045/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -325,6 +326,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1518-water-bottles](https://github.com/bishalstha045/Leetcode/tree/master/1518-water-bottles) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishalstha045/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/bishalstha045/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bishalstha045/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishalstha045/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -644,6 +646,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bishalstha045/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/bishalstha045/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/bishalstha045/Leetcode/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishalstha045/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -660,6 +663,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/bishalstha045/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishalstha045/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## String Matching
 |  |
