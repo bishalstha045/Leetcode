@@ -633,6 +633,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0143-reorder-list](https://github.com/bishalstha045/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bishalstha045/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bishalstha045/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/bishalstha045/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/bishalstha045/Leetcode/tree/master/0394-decode-string) |
@@ -660,6 +661,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/bishalstha045/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
@@ -673,6 +675,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/bishalstha045/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/bishalstha045/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
