@@ -33,6 +33,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0507-perfect-number](https://github.com/bishalstha045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/bishalstha045/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1017-convert-to-base-2](https://github.com/bishalstha045/Leetcode/tree/master/1017-convert-to-base-2) |
