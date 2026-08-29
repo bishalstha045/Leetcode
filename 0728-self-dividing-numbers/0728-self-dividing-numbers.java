@@ -17,3 +17,6 @@ class Solution {
         return true;
     }
 }
+/*
+firstly, i checked findout the digits of each number and checked if each remainder(digit) of a number satisfies the condition (i.e if the digit is divisible by the number and is not a zero) then this number is a self dividing number
+ */
