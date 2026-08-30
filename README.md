@@ -174,6 +174,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1929-concatenation-of-array](https://github.com/bishalstha045/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/bishalstha045/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/bishalstha045/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bishalstha045/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bishalstha045/Leetcode/tree/master/2404-most-frequent-even-element) |
@@ -561,6 +562,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0561-array-partition](https://github.com/bishalstha045/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bishalstha045/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/bishalstha045/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Sliding Window
 |  |
