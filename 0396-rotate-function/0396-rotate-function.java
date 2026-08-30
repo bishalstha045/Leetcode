@@ -1,37 +1,20 @@
 class Solution {
     public int maxRotateFunction(int[] nums) {
-        int n = nums.length;
-        long sum = 0;
-        long f0 = 0;
-        for (int i = 0; i < n; i++) {
-            sum += nums[i];
-            f0 += (long) i * nums[i];
+        int n=nums.length;
+        long sum=0;
+        long f=0;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+            f+=(long)i*nums[i];
         }
-        long max = f0;
-        long current = f0;
-        for (int k = 1; k < n; k++) {
-            current = current + sum - (long) n * nums[n - k];
-            max = Math.max(max, current);
+        long ans=f;
+        for(int i=n-1;i>0;i--){
+            f=f+sum-((long)n*nums[i]);
+            ans=Math.max(f,ans);
         }
-        return (int) max;
+        return (int)ans;
     }
 }
-
 /*
-Formula:
-F(k) = F(k-1) + sum - n * lastElement
-
-Steps:
-1. Find total array sum.
-2. Calculate F(0):
-      F(0) = 0*nums[0] + 1*nums[1] + ...
-3. Use formula to calculate next rotations efficiently.
-4. Keep track of maximum value.
-
-Time Complexity: O(n)
-Space Complexity: O(1)
-
-Optimal Solution:
-- Only one traversal after initial calculation.
-- No extra array used.
-*/
+First I calculate the total sum of the array and the initial rotation value F(0). Then instead of actually rotating the array, I use the previous F value to calculate the next one. When the array rotates, every element shifts one position right, so I add the total sum, and the last element needs correction because it moves from the last index to index 0, so I subtract `n * nums[i]`. I keep updating the maximum value in `ans` and finally return it.
+ */
