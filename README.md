@@ -18,6 +18,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0150-evaluate-reverse-polish-notation](https://github.com/bishalstha045/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/bishalstha045/Leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/bishalstha045/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/bishalstha045/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bishalstha045/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bishalstha045/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bishalstha045/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bishalstha045/Leetcode/tree/master/0217-contains-duplicate) |
@@ -689,6 +691,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/bishalstha045/Leetcode/tree/master/0258-add-digits) |
 ## Union-Find
 |  |
@@ -731,6 +734,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
@@ -748,4 +752,16 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | ------- |
 | [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
