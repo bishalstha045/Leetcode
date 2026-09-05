@@ -30,6 +30,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/bishalstha045/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/bishalstha045/Leetcode/tree/master/0400-nth-digit) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bishalstha045/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/bishalstha045/Leetcode/tree/master/0507-perfect-number) |
@@ -277,6 +278,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0287-find-the-duplicate-number](https://github.com/bishalstha045/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bishalstha045/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/bishalstha045/Leetcode/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/bishalstha045/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bishalstha045/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
