@@ -126,6 +126,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/bishalstha045/Leetcode/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/bishalstha045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/bishalstha045/Leetcode/tree/master/0704-binary-search) |
@@ -687,6 +688,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0232-implement-queue-using-stacks](https://github.com/bishalstha045/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishalstha045/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -703,6 +705,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0232-implement-queue-using-stacks](https://github.com/bishalstha045/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/bishalstha045/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/bishalstha045/Leetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Number Theory
@@ -735,6 +738,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0237-delete-node-in-a-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/bishalstha045/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bishalstha045/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/bishalstha045/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
