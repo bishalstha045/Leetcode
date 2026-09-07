@@ -555,6 +555,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0443-string-compression](https://github.com/bishalstha045/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/bishalstha045/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bishalstha045/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0649-dota2-senate](https://github.com/bishalstha045/Leetcode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/bishalstha045/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/bishalstha045/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bishalstha045/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -582,6 +583,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0334-increasing-triplet-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/bishalstha045/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/bishalstha045/Leetcode/tree/master/0561-array-partition) |
+| [0649-dota2-senate](https://github.com/bishalstha045/Leetcode/tree/master/0649-dota2-senate) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bishalstha045/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -692,6 +694,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0387-first-unique-character-in-a-string](https://github.com/bishalstha045/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/bishalstha045/Leetcode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/bishalstha045/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishalstha045/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
