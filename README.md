@@ -52,6 +52,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishalstha045/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+| [3870-count-commas-in-range](https://github.com/bishalstha045/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bishalstha045/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/bishalstha045/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
