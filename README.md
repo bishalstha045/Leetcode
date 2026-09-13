@@ -139,6 +139,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/bishalstha045/Leetcode/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bishalstha045/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/bishalstha045/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
@@ -642,6 +643,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/bishalstha045/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/bishalstha045/Leetcode/tree/master/0885-spiral-matrix-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/bishalstha045/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
