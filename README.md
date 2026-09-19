@@ -294,6 +294,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0260-single-number-iii](https://github.com/bishalstha045/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/bishalstha045/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bishalstha045/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/bishalstha045/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/bishalstha045/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bishalstha045/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -327,6 +328,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bishalstha045/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/bishalstha045/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/bishalstha045/Leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/bishalstha045/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/bishalstha045/Leetcode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/bishalstha045/Leetcode/tree/master/0396-rotate-function) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
