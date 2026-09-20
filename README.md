@@ -369,6 +369,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/bishalstha045/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/bishalstha045/Leetcode/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
@@ -593,6 +594,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bishalstha045/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/bishalstha045/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
