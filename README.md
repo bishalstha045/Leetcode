@@ -53,6 +53,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bishalstha045/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bishalstha045/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bishalstha045/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bishalstha045/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3870-count-commas-in-range](https://github.com/bishalstha045/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -209,6 +210,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bishalstha045/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bishalstha045/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bishalstha045/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/bishalstha045/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bishalstha045/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/bishalstha045/Leetcode/tree/master/3731-find-missing-elements) |
