@@ -304,6 +304,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0405-convert-a-number-to-hexadecimal](https://github.com/bishalstha045/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/bishalstha045/Leetcode/tree/master/0832-flipping-an-image) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/bishalstha045/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2595-number-of-even-and-odd-bits](https://github.com/bishalstha045/Leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/bishalstha045/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
