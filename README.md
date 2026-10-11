@@ -203,6 +203,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/bishalstha045/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/bishalstha045/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bishalstha045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bishalstha045/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -808,6 +809,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bishalstha045/Leetcode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bishalstha045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bishalstha045/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
