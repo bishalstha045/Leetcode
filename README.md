@@ -205,6 +205,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/bishalstha045/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bishalstha045/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bishalstha045/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/bishalstha045/Leetcode/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bishalstha045/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2215-find-the-difference-of-two-arrays](https://github.com/bishalstha045/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/bishalstha045/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2815-max-pair-sum-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/2815-max-pair-sum-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bishalstha045/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bishalstha045/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -856,4 +858,12 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bishalstha045/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bishalstha045/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/bishalstha045/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
