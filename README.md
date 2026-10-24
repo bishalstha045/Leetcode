@@ -50,6 +50,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/bishalstha045/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/bishalstha045/Leetcode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/bishalstha045/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/bishalstha045/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/bishalstha045/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bishalstha045/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -611,6 +612,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2315-count-asterisks](https://github.com/bishalstha045/Leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/bishalstha045/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bishalstha045/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/bishalstha045/Leetcode/tree/master/3163-string-compression-iii) |
