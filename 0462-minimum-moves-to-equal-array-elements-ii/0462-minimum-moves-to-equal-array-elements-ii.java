@@ -9,3 +9,6 @@ class Solution {
         return res;
     }
 }
+// Sort the array and find the median.
+// Median minimizes the total absolute difference.
+// Sum |element - median| to get minimum moves.
