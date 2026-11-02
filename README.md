@@ -35,6 +35,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0412-fizz-buzz](https://github.com/bishalstha045/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/bishalstha045/Leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bishalstha045/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishalstha045/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/bishalstha045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -129,6 +130,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bishalstha045/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishalstha045/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/bishalstha045/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/bishalstha045/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bishalstha045/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -439,6 +441,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0389-find-the-difference](https://github.com/bishalstha045/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bishalstha045/Leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishalstha045/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/bishalstha045/Leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
