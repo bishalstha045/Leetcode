@@ -39,6 +39,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0507-perfect-number](https://github.com/bishalstha045/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/bishalstha045/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bishalstha045/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/bishalstha045/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/bishalstha045/Leetcode/tree/master/0877-stone-game) |
@@ -143,6 +144,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0566-reshape-the-matrix](https://github.com/bishalstha045/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/bishalstha045/Leetcode/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/bishalstha045/Leetcode/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/bishalstha045/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/bishalstha045/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/bishalstha045/Leetcode/tree/master/0682-baseball-game) |
@@ -445,6 +447,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [0442-find-all-duplicates-in-an-array](https://github.com/bishalstha045/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bishalstha045/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/bishalstha045/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/bishalstha045/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bishalstha045/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/bishalstha045/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/bishalstha045/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
