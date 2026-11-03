@@ -11,3 +11,5 @@ class Solution {
         return res;
     }
 }
+// Find the maximum element and calculate the difference of every element from it.
+// Total difference gives the minimum moves required to make all elements equal.
