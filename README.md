@@ -222,6 +222,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bishalstha045/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/bishalstha045/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bishalstha045/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bishalstha045/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/bishalstha045/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/bishalstha045/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bishalstha045/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
