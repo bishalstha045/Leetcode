@@ -3,7 +3,7 @@ class Solution {
         StringBuilder ans= new StringBuilder();
         int i=0;
         int j=0;
-        while(i<word1.length() && j<word2.length()){
+        while(i<word1.length()&& j<word2.length()){
             ans.append(word1.charAt(i));
             ans.append(word2.charAt(j));
             i++;
@@ -20,4 +20,3 @@ class Solution {
         return ans.toString();
     }
 }
-//using two pointer 
