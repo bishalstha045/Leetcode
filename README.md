@@ -628,6 +628,7 @@ A collection of LeetCode problems solved using Java, covering data structures, a
 | [1832-check-if-the-sentence-is-pangram](https://github.com/bishalstha045/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/bishalstha045/Leetcode/tree/master/1927-sum-game) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/bishalstha045/Leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bishalstha045/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2315-count-asterisks](https://github.com/bishalstha045/Leetcode/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/bishalstha045/Leetcode/tree/master/2390-removing-stars-from-a-string) |
